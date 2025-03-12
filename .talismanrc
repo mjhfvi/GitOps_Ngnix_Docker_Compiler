@@ -1,0 +1,11 @@
+---
+fileignoreconfig:
+  - filename: .yamllint
+    checksum: 68d946e0e992a12d5bfb0c07a0aa1a69adec8f2b8624443b968e28b6297dec6e
+  - filename: .gitleaks.toml
+    checksum: fff57693c33ca6f1d75c0005d4f55b511c3bcedaabaaa68c565dfd0a26d81db9
+  - filename: dockerfile
+    checksum: 51249eaeb8e5ba4779f05b715d4a861e08ff7ad6541f8cdbe0325145f08af1b9
+  - filename: .pre-commit-config.yaml
+    checksum: b78476e074205c617fffb93fa96d1bd99db2d0f5033e14dd05df0430f3331ab2
+version: ""
