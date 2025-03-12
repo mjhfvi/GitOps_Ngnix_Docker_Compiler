@@ -92,6 +92,7 @@ The build process:
   - Second stage: Windows Nano Server for the final image
 - All build tools and dependencies are contained within the Docker container
 - No need to install any frameworks or SDKs on the host machine
+- default windows docker image 'mcr.microsoft.com/windows/servercore:ltsc2019'
 
 ## Troubleshooting
 
