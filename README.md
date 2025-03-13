@@ -94,6 +94,10 @@ The build process:
 - No need to install any frameworks or SDKs on the host machine
 - default windows docker image 'mcr.microsoft.com/windows/servercore:ltsc2019'
 
+## CI/CD Pipeline
+
+[Build in Pipeline Examples](./pipelines/PIPELINE.md)
+
 ## Troubleshooting
 
 ### Common Issues
